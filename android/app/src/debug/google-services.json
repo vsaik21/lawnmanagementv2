@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961207869104",
+    "firebase_url": "https://lawnmanagement-67013.firebaseio.com",
+    "project_id": "lawnmanagement-67013",
+    "storage_bucket": "lawnmanagement-67013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961207869104:android:185f12966a2fc449276575",
+        "android_client_info": {
+          "package_name": "com.easyiot.lawnmanagementv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961207869104-q34pu3ocmst9if2e2gpqfg5m128pvnrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAueHWjSo53Q1zAexN8iO8fERI7hUTZVqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961207869104-q34pu3ocmst9if2e2gpqfg5m128pvnrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
